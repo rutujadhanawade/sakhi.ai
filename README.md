@@ -22,14 +22,17 @@ It is a Multi-class sentiment analysis problem to classify texts into five emoti
 ## Experiments
 ### Traditional Machine Learning:
 Data preprocessing: noise and punctuation removal, tokenization, stemming
-Text Representation: TF-IDF
-Classifiers: Naive Bayes, Random Forrest, Logistic Regression, SVM
-Approach F1-Score
-Naive Bayes 0.6702
-Random Forrest 0.6372
-Logistic Regression 0.6935
-SVM
-![accuracyhigh](https://user-images.githubusercontent.com/46274158/125912637-fe8498d7-2a45-4dce-8844-6d45671b71f1.png)
 
+Text Representation: TF-IDF
+
+Classifiers: Naive Bayes, Random Forrest, Logistic Regression, SVM
+
+Approach F1-Score<br>
+Naive Bayes 0.6702<br>
+Random Forrest 0.6372<br>
+Logistic Regression 0.6935<br>
+SVM    0.7271<br>
+![accuracyhigh](https://user-images.githubusercontent.com/46274158/125912637-fe8498d7-2a45-4dce-8844-6d45671b71f1.png)
+<br>
 ## Use Case/ Example:
 Nowadays within the Internet, there's an immense amount of textual data. It’s fascinating to extract emotion from various goals like those of business. As an example, in luxury merchandise, the emotional aspect as brand, individuality, and prestige for purchasing confirmations, are a lot necessary than other aspects like technical, functional, or price. In such conditions, buyers are happy to shop for a product even with high costs. Emotion selling aims to simulate emotions in clients for tying them to brand and then increase the selling of service/product
